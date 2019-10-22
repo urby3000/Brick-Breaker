@@ -12,7 +12,7 @@ GTA San Andreas Radio Stations.
 
 Power ups and debuffs.
 
-Cheat code: 'boom' - finished level.
+Cheat code: 'boom' - finish level.
 
 Highscore logger.
 
