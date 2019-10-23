@@ -17,5 +17,5 @@ Cheat code: 'boom' - finish level.
 Highscore logger.
 
 Controls:
-  Space or Left Mouse Button - Shoot
-  Left, Right or Mouse - Move
+  Space or Left Mouse Button - Shoot;
+  Left, Right or Mouse - Move;
