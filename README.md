@@ -3,7 +3,6 @@
 
 ### Player moves with ⬅️➡️, or with 🖱️, shoots ball with SPACE or left mouse button.
 ___
-
 <img src="readmegifs/menu.gif" width=450px height=300px></img>
 <br>
 
