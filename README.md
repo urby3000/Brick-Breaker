@@ -3,12 +3,13 @@
 
 ### Player moves with ⬅️➡️, or with 🖱️, shoots ball with SPACE or left mouse button.
 ___
+
+<img src="readmegifs/menu.gif" width=450px height=300px></img>
 <br>
 
 ### Game includes 5 levels and 1 boss fight.
 ### Destroyed bricks have a chance of dropping power ups and debuffs.
-<img src="readmegifs/menu.gif" width=450px height=300px></img>
-<br>
+
 <img src="readmegifs/lvl1.gif" width=300px height=200px></img>
 <img src="readmegifs/lvl2.gif" width=300px height=200px></img>
 <img src="readmegifs/lvl3.gif" width=300px height=200px></img>
