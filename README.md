@@ -1,23 +1,39 @@
-# Brick-Breaker
+# 🧱 **Brick Breaker** 🧱
+## School project from 2016/17. 👴👴
 
-Gameplay Dropbox link: https://www.dropbox.com/s/k05tdj6kyghmz1k/GameplayBrickBreaker.mp4?raw=1
+### Player moves with ⬅️➡️, or with 🖱️, shoots ball with SPACE or left mouse button.
+___
+<br>
 
-School project from 2016/17.
+### Game includes 5 levels and 1 boss fight.
+### Destroyed bricks have a chance of dropping power ups and debuffs.
+<img src="readmegifs/menu.gif" width=450px height=300px></img>
+<br>
+<img src="readmegifs/lvl1.gif" width=300px height=200px></img>
+<img src="readmegifs/lvl2.gif" width=300px height=200px></img>
+<img src="readmegifs/lvl3.gif" width=300px height=200px></img>
+<img src="readmegifs/lvl4.gif" width=300px height=200px></img>
+<img src="readmegifs/lvl5.gif" width=300px height=200px></img>
 
-5 brick levels and 1 boss fight.
+## Boss fight
+<img src="readmegifs/boss.gif" width=600px height=400px></img>
 
-3D models are from Unity Asset Store.
 
-GTA San Andreas Radio Stations.
+## You can listen to Radio Stations from GTA San Andreas 🎧
+<img src="Assets/Audio/GTA San Andreas/Logos/bounceFM.png" width=50px height=50px></img>
+<img src="Assets/Audio/GTA San Andreas/Logos/CSR.png" width=50px height=50px></img>
+<img src="Assets/Audio/GTA San Andreas/Logos/kdst.png" width=50px height=50px></img>
+<img src="Assets/Audio/GTA San Andreas/Logos/kjah.png" width=50px height=50px></img>
+<img src="Assets/Audio/GTA San Andreas/Logos/krose.png" width=50px height=50px></img>
+<img src="Assets/Audio/GTA San Andreas/Logos/lossantos.png" width=50px height=50px></img>
+<img src="Assets/Audio/GTA San Andreas/Logos/mastersounds.png" width=50px height=50px></img>
+<img src="Assets/Audio/GTA San Andreas/Logos/playbackfm.png" width=50px height=50px></img>
+<img src="Assets/Audio/GTA San Andreas/Logos/radiox.png" width=50px height=50px></img>
+<img src="Assets/Audio/GTA San Andreas/Logos/sfur.png" width=50px height=50px></img>
+<img src="Assets/Audio/GTA San Andreas/Logos/WCTR.jpg" width=50px height=50px></img>
 
-Power ups and debuffs.
+<br>
 
-Cheat code: 'boom' - finish level.
+___
 
-Highscore logger.
-
-Controls:
-
-Space or Left Mouse Button - Shoot.
-
-Left, Right or Mouse - Move.
+### 3D models borrowed 😉 from Unity Asset Store.
